@@ -1,0 +1,27 @@
+_repo: Hunting-with-the-Bow-Arrow_8084
+alternative_title: Hunting with the Bow and Arrow
+creator:
+  author:
+    agent_name: Pope, Saxton T. (Saxton Temple)
+    alias: Pope, Saxton Temple
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '2633'
+    url: http://www.gutenberg.org/2009/agents/2633
+    wikipedia: http://en.wikipedia.org/wiki/Saxton_Pope
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bow and arrow'
+- !lcc 'GV'
+- !lcc 'SK'
+- !lcsh 'Archery'
+title: Hunting with the Bow & Arrow
+url: http://www.gutenberg.org/ebooks/8084
